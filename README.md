@@ -3,6 +3,7 @@
 ## Overview
 MonadMegaDeFi is an advanced hybrid smart contract that combines decentralized finance (DeFi) functionality with gaming elements (GameFi). It creates a comprehensive ecosystem where users can engage with both financial services and game-like activities within a single contract. The contract integrates token management, character systems, and various game mechanics while maintaining financial primitives.
 
+![Chat-GPT-Image-8-avr-2025-23-38-47](https://github.com/user-attachments/assets/0d206dc0-e05a-47e9-b6fd-eb390589bbce)
 
 
 
