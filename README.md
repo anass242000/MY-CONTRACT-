@@ -194,14 +194,13 @@ The contract emits numerous events to track activities:
 
 ## Technical Specifications
 - Solidity Version: 0.8.28
-- Contract Size: 38.43 KB (source) / 134.51 KB (estimated compiled size)
+- Contract Size: 128 KB (estimated compiled size)
 - Libraries Used: SafeMath, AddressUtils, StringUtils
 - Optimization: Compatible with IR-based compilation
 
 ## Architecture Notes
 1. The contract integrates multiple systems that would typically be separated in production environments.
 2. The complexity is intentional to showcase combined DeFi and GameFi functionality.
-3. The contract size exceeds Ethereum's 24KB limit and would require splitting or proxies for mainnet deployment.
 
 ## Role & Permission Structure
 | Role | Capabilities |
@@ -242,4 +241,4 @@ The contract emits numerous events to track activities:
 - Governance voting mechanisms
 
 ## Conclusion
-The MonadMegaDeFi contract represents an ambitious hybrid of DeFi and GameFi functionality, demonstrating how blockchain technology can create complex interactive systems. While its size makes it impractical for direct Ethereum mainnet deployment without modifications, it serves as an excellent example of advanced smart contract development and the integration of multiple blockchain use cases in a single system.
+The MonadMegaDeFi contract is an ambitious hybrid of DeFi and GameFi, showcasing how blockchain technology enables complex, interactive systems. With Monad's high-performance architecture and 128KB contract size limit, it seamlessly integrates multiple blockchain use cases in a single system, pushing the boundaries of smart contract development.
