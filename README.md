@@ -6,6 +6,8 @@ MonadMegaDeFi is an advanced hybrid smart contract that combines decentralized f
 
 ![Chat-GPT-Image-8-avr-2025-08-27-21](https://github.com/user-attachments/assets/e6862fc0-f8e8-4c71-b218-686ea0707eb7)
 
+## Project (Contract) logo :
+![image](https://github.com/user-attachments/assets/c136635d-ba5d-4f2c-bea1-40954a2e599a)
 
 
 ## Core Components
